@@ -1,5 +1,5 @@
-# exploratory_CV-
+# exploratory
 This repo will be my Read & Review of various research papers
 
 
-Spherical Knowledge Disitllation : https://arxiv.org/pdf/2010.07485.pdf
+[Spherical Knowledge Disitllation](exploratory/spherical_knowledge_distillation)
